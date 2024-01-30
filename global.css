@@ -1,0 +1,3 @@
+html, body {font-size: 10px;}
+@media only screen and (max-width: 992px) {html, body {font-size: 7px;}}
+
